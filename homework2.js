@@ -1,7 +1,7 @@
 <script>
 const a=1
 const b=4
-const c=5
+const c=10-5
 const d=9+"Joe"
 
 if (a===b){
